@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #6f6b6b;
+    font-size: 64px;
+    font-weight: 400;
+    font-family: 'Prata', serif;
+    margin-bottom: 0cm;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #6f6b6b;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Prata', serif;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 5px;
+}
+
+h4 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 25px;
+    margin-left: -2px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(45deg, rgb(90 117 170), #929397);
+}
+
+
+p {
+    margin-left: 8px;
+}
+
+.main-section {
+    padding: 20px;
+    
+}
+
+.image-container {
+    height: 500px;
+    background-image: url(https://www.youwannatravel.com/images/Balzolo/Balzolo-roccia.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.image-container-fossacesia {
+    height: 450px;
+    background-image: url(https://www.repstatic.it/content/nazionale/img/2021/12/14/150118754-b27057df-5a81-4dda-ab6e-fe367bb87e1e.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.image-container-pianadellemele {
+    
+    height: 450px;
+    background-image: url( https://4.bp.blogspot.com/-AYkyDYB8zuw/U2KqdkR1GqI/AAAAAAAADho/1GlWDzpjn3c/s1600/Iviaggididante.blogspot.com+Piana+delle+Mele+%252819%2529.JPG );
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.image-container-pescara {
+    
+    height: 450px;
+    background-image: url( https://res.cloudinary.com/hzekpb1cg/image/upload/c_fill,h_410,w_800/q_auto:low,f_auto/s3/public/prod/s3fs-public/Italy_Pescara.jpg );
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.image-container-guardiagrele {
+    
+    height: 450px;
+    background-image: url( https://blog.giallozafferano.it/spadellandoperilmondo/wp-content/uploads/2021/03/20210317_113237-960x713.jpg );
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.image-container-lanciano {
+    
+    height: 450px;
+    background-image: url( https://turismo.abruzzo.it/wp-content/uploads/sites/118/lanciano-mastrogiurato-hd.jpg );
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#special-p {
+    font-weight: 600;
+    font-style: oblique;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    padding: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    margin-left: 0px;
+}
+
+ul li {
+    border-bottom: 1px solid #dfdfdf;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+li a {
+    color: rgb(90, 117, 170);
+}
+
+footer {
+    padding: 16px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    
+   
+}
+#text-footer{
+    text-decoration: none;
+    
+}
+footer a {
+    color: white;
+}
